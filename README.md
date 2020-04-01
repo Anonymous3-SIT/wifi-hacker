@@ -38,7 +38,7 @@ Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Suppo
 - pkg install bash
 - pkg install git
 - git clone https://github.com/Anonymous3-SIT/wifi-hacker
-- cd DarkFB
+- cd wifi-hacker
 - ls
 - bash wifi-hacker.sh
 
